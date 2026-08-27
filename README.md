@@ -1,2 +1,2 @@
 # face_recognition_system
-training an ai model on how to be able to identify different people
+This repository is about building an AI face recognition system to identify different people.
